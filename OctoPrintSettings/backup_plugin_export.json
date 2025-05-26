@@ -1,0 +1,92 @@
+[
+  {
+    "key": "CrealityTemperature",
+    "name": "Creality Temperature",
+    "url": "https://github.com/RomainOdeval/OctoPrint-CrealityTemperature/",
+    "archive": "https://github.com/RomainOdeval/OctoPrint-CrealityTemperature/releases/latest/download/master.zip"
+  },
+  {
+    "key": "ender3v2tempfix",
+    "name": "Creality-2x-temperature-reporting-fix",
+    "url": "https://simplyprint.dk/",
+    "archive": "https://github.com/SimplyPrint/OctoPrint-Creality2xTemperatureReportingFix/archive/master.zip"
+  },
+  {
+    "key": "excluderegion",
+    "name": "Exclude Region",
+    "url": "https://github.com/bradcfisher/OctoPrint-ExcludeRegionPlugin",
+    "archive": "https://github.com/bradcfisher/OctoPrint-ExcludeRegionPlugin/archive/master.zip"
+  },
+  {
+    "key": "detailedprogress",
+    "name": "Detailed Progress",
+    "url": "https://github.com/tpmullan/OctoPrint-DetailedProgress",
+    "archive": "https://github.com/tpmullan/OctoPrint-DetailedProgress/archive/master.zip"
+  },
+  {
+    "key": "BLTouch",
+    "name": "BLTouch Plugin",
+    "url": "https://github.com/jneilliii/OctoPrint-Bltouch",
+    "archive": "https://github.com/jneilliii/OctoPrint-BLTouch/archive/master.zip"
+  },
+  {
+    "key": "powerfailure",
+    "name": "Power Failure Recovery",
+    "url": "https://github.com/pablogventura/OctoPrint-PowerFailure",
+    "archive": "https://github.com/pablogventura/OctoPrint-PowerFailure/archive/master.zip"
+  },
+  {
+    "key": "bedlevelvisualizer",
+    "name": "Bed Visualizer",
+    "url": "https://github.com/jneilliii/OctoPrint-BedLevelVisualizer",
+    "archive": "https://github.com/jneilliii/OctoPrint-BedLevelVisualizer/archive/master.zip"
+  },
+  {
+    "key": "prettygcode",
+    "name": "PrettyGCode",
+    "url": "https://github.com/Kragrathea/OctoPrint-PrettyGCode",
+    "archive": "https://github.com/Kragrathea/OctoPrint-PrettyGCode/archive/master.zip"
+  },
+  {
+    "key": "touchui",
+    "name": "TouchUI",
+    "url": "https://github.com/BillyBlaze/OctoPrint-TouchUI",
+    "archive": "https://github.com/BillyBlaze/OctoPrint-TouchUI/archive/master.zip"
+  },
+  {
+    "key": "PrintTimeGenius",
+    "name": "PrintTimeGenius Plugin",
+    "url": "https://github.com/eyal0/OctoPrint-PrintTimeGenius",
+    "archive": "https://github.com/eyal0/OctoPrint-PrintTimeGenius/archive/master.zip"
+  },
+  {
+    "key": "psucontrol",
+    "name": "PSU Control",
+    "url": "https://github.com/kantlivelong/OctoPrint-PSUControl",
+    "archive": "https://github.com/kantlivelong/OctoPrint-PSUControl/archive/master.zip"
+  },
+  {
+    "key": "DisplayLayerProgress",
+    "name": "DisplayLayerProgress Plugin",
+    "url": "https://github.com/OllisGit/OctoPrint-DisplayLayerProgress",
+    "archive": "https://github.com/OllisGit/OctoPrint-DisplayLayerProgress/releases/latest/download/master.zip"
+  },
+  {
+    "key": "z_probe_offset",
+    "name": "Z Probe Offset",
+    "url": "https://framagit.org/razer/octoprint_z_probe_offset",
+    "archive": "https://framagit.org/razer/octoprint_z_probe_offset/-/archive/latest/octoprint_z_probe_offset-latest.zip"
+  },
+  {
+    "key": "UltimakerFormatPackage",
+    "name": "Cura Thumbnails",
+    "url": "https://github.com/jneilliii/OctoPrint-UltimakerFormatPackage",
+    "archive": "https://github.com/jneilliii/OctoPrint-UltimakerFormatPackage/archive/master.zip"
+  },
+  {
+    "key": "psucontrol_homeassistant",
+    "name": "PSU Control - Home Assistant",
+    "url": "https://github.com/edekeijzer/OctoPrint-PSUControl-HomeAssistant",
+    "archive": "https://github.com/edekeijzer/OctoPrint-PSUControl-HomeAssistant/archive/main.zip"
+  }
+]
