@@ -1,0 +1,25 @@
+{
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Schwarz  PLA - 205 - 60"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Schwarz  PLA - 205 - 60",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "pressure_advance": [
+        "0.66"
+    ],
+    "version": "2.3.0.3"
+}

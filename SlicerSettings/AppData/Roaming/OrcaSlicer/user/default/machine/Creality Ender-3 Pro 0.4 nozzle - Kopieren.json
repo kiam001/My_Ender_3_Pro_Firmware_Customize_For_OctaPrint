@@ -1,0 +1,12 @@
+{
+    "from": "User",
+    "gcode_flavor": "marlin2",
+    "inherits": "Creality Ender-3 Pro 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Creality Ender-3 Pro 0.4 nozzle - Kopieren",
+    "nozzle_type": "brass",
+    "print_host": "192.168.178.70:5000",
+    "printer_settings_id": "Creality Ender-3 Pro 0.4 nozzle - Kopieren",
+    "printhost_apikey": "xxx",
+    "version": "2.3.0.3"
+}
